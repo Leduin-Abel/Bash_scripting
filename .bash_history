@@ -79,3 +79,7 @@ vim variables.sh
 vim variables.sh
 vim variables.sh
 ./variables.sh
+cd Scripts
+vim script_interactivo.sh
+chmod +x script_interactivo.sh
+./script_interactivo.sh
