@@ -11,12 +11,14 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:q
-|2,0,1661830523,,"q"
 :x
-|2,0,1661830497,,"x"
+|2,0,1661996856,,"x"
+:colo ron
+|2,0,1661996690,,"colo ron"
 :colorscheme ron
-|2,0,1661830300,,"colorscheme ron"
+|2,0,1661995541,,"colorscheme ron"
+:q
+|2,0,1661906525,,"q"
 :colorscheme pablo
 |2,0,1661827204,,"colorscheme pablo"
 :colorscheme delek
@@ -86,237 +88,293 @@
 
 # Registers:
 ""0	LINE	0
-	echo "==============================================="
-|3,1,0,1,1,0,1661566460,"echo \"===============================================\""
+	echo "Numeros: ${numeros[*]}"
+	
+|3,1,0,1,2,0,1661996011,"echo \"Numeros: ${numeros[*]}\"",""
+"1	LINE	0
+	
+|3,0,1,1,1,0,1661995229,""
 "-	CHAR	0
 	"
-|3,0,36,0,1,0,1661566395,"\""
+|3,0,36,0,1,0,1661995680,"\""
 
 # File marks:
-'0  17  0  ~/Scripts/case.sh
-|4,48,17,0,1661830523,"~/Scripts/case.sh"
-'1  16  0  ~/Scripts/case.sh
-|4,49,16,0,1661830497,"~/Scripts/case.sh"
-'2  16  0  ~/Scripts/case.sh
-|4,50,16,0,1661830497,"~/Scripts/case.sh"
-'3  17  3  ~/Scripts/case.sh
-|4,51,17,3,1661830458,"~/Scripts/case.sh"
-'4  17  3  ~/Scripts/case.sh
-|4,52,17,3,1661830458,"~/Scripts/case.sh"
-'5  17  3  ~/Scripts/case.sh
-|4,53,17,3,1661830458,"~/Scripts/case.sh"
-'6  16  3  ~/Scripts/case.sh
-|4,54,16,3,1661830336,"~/Scripts/case.sh"
-'7  16  3  ~/Scripts/case.sh
-|4,55,16,3,1661830336,"~/Scripts/case.sh"
-'8  16  3  ~/Scripts/case.sh
-|4,56,16,3,1661830336,"~/Scripts/case.sh"
-'9  16  3  ~/Scripts/case.sh
-|4,57,16,3,1661830336,"~/Scripts/case.sh"
+'0  49  28  ~/Scripts/array_loop.sh
+|4,48,49,28,1661996856,"~/Scripts/array_loop.sh"
+'1  43  3  ~/Scripts/array_loop.sh
+|4,49,43,3,1661996675,"~/Scripts/array_loop.sh"
+'2  43  3  ~/Scripts/array_loop.sh
+|4,50,43,3,1661996675,"~/Scripts/array_loop.sh"
+'3  36  28  ~/Scripts/array_loop.sh
+|4,51,36,28,1661996026,"~/Scripts/array_loop.sh"
+'4  36  28  ~/Scripts/array_loop.sh
+|4,52,36,28,1661996026,"~/Scripts/array_loop.sh"
+'5  36  28  ~/Scripts/array_loop.sh
+|4,53,36,28,1661996026,"~/Scripts/array_loop.sh"
+'6  36  28  ~/Scripts/array_loop.sh
+|4,54,36,28,1661996026,"~/Scripts/array_loop.sh"
+'7  25  42  ~/Scripts/array_loop.sh
+|4,55,25,42,1661995733,"~/Scripts/array_loop.sh"
+'8  25  42  ~/Scripts/array_loop.sh
+|4,56,25,42,1661995733,"~/Scripts/array_loop.sh"
+'9  25  42  ~/Scripts/array_loop.sh
+|4,57,25,42,1661995733,"~/Scripts/array_loop.sh"
 
 # Jumplist (newest first):
--'  17  0  ~/Scripts/case.sh
-|4,39,17,0,1661830523,"~/Scripts/case.sh"
--'  16  0  ~/Scripts/case.sh
-|4,39,16,0,1661830515,"~/Scripts/case.sh"
--'  16  0  ~/Scripts/case.sh
-|4,39,16,0,1661830497,"~/Scripts/case.sh"
--'  17  3  ~/Scripts/case.sh
-|4,39,17,3,1661830480,"~/Scripts/case.sh"
--'  17  3  ~/Scripts/case.sh
-|4,39,17,3,1661830458,"~/Scripts/case.sh"
--'  16  3  ~/Scripts/case.sh
-|4,39,16,3,1661830349,"~/Scripts/case.sh"
--'  16  3  ~/Scripts/case.sh
-|4,39,16,3,1661830336,"~/Scripts/case.sh"
--'  16  27  ~/Scripts/case.sh
-|4,39,16,27,1661830262,"~/Scripts/case.sh"
--'  8  20  ~/Scripts/case.sh
-|4,39,8,20,1661830017,"~/Scripts/case.sh"
--'  8  20  ~/Scripts/case.sh
-|4,39,8,20,1661830017,"~/Scripts/case.sh"
--'  8  20  ~/Scripts/case.sh
-|4,39,8,20,1661830017,"~/Scripts/case.sh"
--'  8  20  ~/Scripts/case.sh
-|4,39,8,20,1661830017,"~/Scripts/case.sh"
--'  8  20  ~/Scripts/case.sh
-|4,39,8,20,1661830017,"~/Scripts/case.sh"
--'  8  20  ~/Scripts/case.sh
-|4,39,8,20,1661829989,"~/Scripts/case.sh"
--'  18  0  ~/Scripts/case.sh
-|4,39,18,0,1661829974,"~/Scripts/case.sh"
--'  11  0  ~/Scripts/case.sh
-|4,39,11,0,1661829974,"~/Scripts/case.sh"
--'  18  0  ~/Scripts/case.sh
-|4,39,18,0,1661829974,"~/Scripts/case.sh"
--'  11  0  ~/Scripts/case.sh
-|4,39,11,0,1661829974,"~/Scripts/case.sh"
--'  18  0  ~/Scripts/case.sh
-|4,39,18,0,1661829974,"~/Scripts/case.sh"
--'  11  0  ~/Scripts/case.sh
-|4,39,11,0,1661829974,"~/Scripts/case.sh"
--'  17  0  ~/Scripts/case.sh
-|4,39,17,0,1661829974,"~/Scripts/case.sh"
--'  11  0  ~/Scripts/case.sh
-|4,39,11,0,1661829974,"~/Scripts/case.sh"
--'  17  0  ~/Scripts/case.sh
-|4,39,17,0,1661829974,"~/Scripts/case.sh"
--'  11  0  ~/Scripts/case.sh
-|4,39,11,0,1661829974,"~/Scripts/case.sh"
--'  11  0  ~/Scripts/case.sh
-|4,39,11,0,1661829948,"~/Scripts/case.sh"
--'  1  0  ~/Scripts/case.sh
-|4,39,1,0,1661829763,"~/Scripts/case.sh"
--'  1  0  ~/Scripts/case.sh
-|4,39,1,0,1661829763,"~/Scripts/case.sh"
--'  1  0  ~/Scripts/case.sh
-|4,39,1,0,1661829763,"~/Scripts/case.sh"
--'  1  0  ~/Scripts/case.sh
-|4,39,1,0,1661829763,"~/Scripts/case.sh"
--'  1  0  ~/Scripts/case.sh
-|4,39,1,0,1661829763,"~/Scripts/case.sh"
--'  1  0  ~/Scripts/case.sh
-|4,39,1,0,1661829763,"~/Scripts/case.sh"
--'  1  0  ~/Scripts/case.sh
-|4,39,1,0,1661829763,"~/Scripts/case.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
--'  22  40  ~/Scripts/condicionales.sh
-|4,39,22,40,1661829224,"~/Scripts/condicionales.sh"
+-'  49  28  ~/Scripts/array_loop.sh
+|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
+-'  43  3  ~/Scripts/array_loop.sh
+|4,39,43,3,1661996682,"~/Scripts/array_loop.sh"
+-'  43  3  ~/Scripts/array_loop.sh
+|4,39,43,3,1661996675,"~/Scripts/array_loop.sh"
+-'  36  28  ~/Scripts/array_loop.sh
+|4,39,36,28,1661996107,"~/Scripts/array_loop.sh"
+-'  36  28  ~/Scripts/array_loop.sh
+|4,39,36,28,1661996107,"~/Scripts/array_loop.sh"
+-'  36  28  ~/Scripts/array_loop.sh
+|4,39,36,28,1661996026,"~/Scripts/array_loop.sh"
+-'  25  42  ~/Scripts/array_loop.sh
+|4,39,25,42,1661995841,"~/Scripts/array_loop.sh"
+-'  25  42  ~/Scripts/array_loop.sh
+|4,39,25,42,1661995841,"~/Scripts/array_loop.sh"
+-'  25  42  ~/Scripts/array_loop.sh
+|4,39,25,42,1661995841,"~/Scripts/array_loop.sh"
+-'  25  42  ~/Scripts/array_loop.sh
+|4,39,25,42,1661995733,"~/Scripts/array_loop.sh"
+-'  20  38  ~/Scripts/array_loop.sh
+|4,39,20,38,1661995527,"~/Scripts/array_loop.sh"
+-'  20  38  ~/Scripts/array_loop.sh
+|4,39,20,38,1661995527,"~/Scripts/array_loop.sh"
+-'  20  38  ~/Scripts/array_loop.sh
+|4,39,20,38,1661995527,"~/Scripts/array_loop.sh"
+-'  20  38  ~/Scripts/array_loop.sh
+|4,39,20,38,1661995527,"~/Scripts/array_loop.sh"
+-'  20  38  ~/Scripts/array_loop.sh
+|4,39,20,38,1661995488,"~/Scripts/array_loop.sh"
+-'  14  0  ~/Scripts/array_loop.sh
+|4,39,14,0,1661995218,"~/Scripts/array_loop.sh"
+-'  14  0  ~/Scripts/array_loop.sh
+|4,39,14,0,1661995218,"~/Scripts/array_loop.sh"
+-'  14  0  ~/Scripts/array_loop.sh
+|4,39,14,0,1661995218,"~/Scripts/array_loop.sh"
+-'  14  0  ~/Scripts/array_loop.sh
+|4,39,14,0,1661995218,"~/Scripts/array_loop.sh"
+-'  14  0  ~/Scripts/array_loop.sh
+|4,39,14,0,1661995218,"~/Scripts/array_loop.sh"
+-'  14  0  ~/Scripts/array_loop.sh
+|4,39,14,0,1661995117,"~/Scripts/array_loop.sh"
+-'  16  0  ~/Scripts/array_loop.sh
+|4,39,16,0,1661994933,"~/Scripts/array_loop.sh"
+-'  16  0  ~/Scripts/array_loop.sh
+|4,39,16,0,1661994933,"~/Scripts/array_loop.sh"
+-'  16  0  ~/Scripts/array_loop.sh
+|4,39,16,0,1661994933,"~/Scripts/array_loop.sh"
+-'  16  0  ~/Scripts/array_loop.sh
+|4,39,16,0,1661994933,"~/Scripts/array_loop.sh"
+-'  16  0  ~/Scripts/array_loop.sh
+|4,39,16,0,1661994933,"~/Scripts/array_loop.sh"
+-'  16  0  ~/Scripts/array_loop.sh
+|4,39,16,0,1661994933,"~/Scripts/array_loop.sh"
+-'  14  0  ~/Scripts/array_loop.sh
+|4,39,14,0,1661994837,"~/Scripts/array_loop.sh"
+-'  1  0  ~/Scripts/array_loop.sh
+|4,39,1,0,1661994548,"~/Scripts/array_loop.sh"
+-'  1  0  ~/Scripts/array_loop.sh
+|4,39,1,0,1661994548,"~/Scripts/array_loop.sh"
+-'  1  0  ~/Scripts/array_loop.sh
+|4,39,1,0,1661994548,"~/Scripts/array_loop.sh"
+-'  1  0  ~/Scripts/array_loop.sh
+|4,39,1,0,1661994548,"~/Scripts/array_loop.sh"
+-'  1  0  ~/Scripts/array_loop.sh
+|4,39,1,0,1661994548,"~/Scripts/array_loop.sh"
+-'  1  0  ~/Scripts/array_loop.sh
+|4,39,1,0,1661994548,"~/Scripts/array_loop.sh"
+-'  1  0  ~/Scripts/array_loop.sh
+|4,39,1,0,1661994548,"~/Scripts/array_loop.sh"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1661906525,"~/.vimrc"
 
 # History of marks within files (newest to oldest):
+
+> ~/Scripts/array_loop.sh
+	*	1661996854	0
+	"	49	28
+	^	49	29
+	.	49	29
+	+	5	25
+	+	6	8
+	+	5	62
+	+	7	23
+	+	11	20
+	+	15	0
+	+	13	19
+	+	17	0
+	+	9	29
+	+	18	20
+	+	12	0
+	+	19	0
+	+	19	20
+	+	20	8
+	+	19	8
+	+	18	25
+	+	19	26
+	+	20	24
+	+	24	59
+	+	25	0
+	+	26	0
+	+	25	0
+	+	38	0
+	+	26	0
+	+	25	55
+	+	26	23
+	+	25	42
+	+	38	0
+	+	30	53
+	+	32	0
+	+	35	0
+	+	32	29
+	+	34	11
+	+	36	0
+	+	38	35
+	+	43	3
+	+	44	0
+	+	45	37
+	+	40	33
+	+	50	4
+	+	49	29
+
+> ~/.vimrc
+	*	1661906523	0
+	"	1	0
+	^	1	0
 
 > ~/Scripts/case.sh
 	*	1661830520	0

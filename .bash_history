@@ -83,3 +83,64 @@ cd Scripts
 vim script_interactivo.sh
 chmod +x script_interactivo.sh
 ./script_interactivo.sh
+cd Scripts
+ls
+cp script_interactivo.sh condicionales.sh
+ls
+vim condicionales.sh
+./condicionales.sh
+vim condicionales.sh
+./condicionales.sh
+vim condicionales.sh
+vim condicionales.sh
+./condicionales.sh
+vim condicionales.sh
+./condicionales.sh
+vim condicionales.sh
+./condicionales.sh
+vim condicionales.sh
+./condicionales.sh
+vim condicionales.sh
+./condicionales.sh
+vim condicionales.sh
+./condicionales.sh
+vim condicionales.sh
+./condicionales.sh
+./condicionales.sh
+vim condicionales.sh
+./condicionales.sh
+vim condicionales.sh
+./condicionales.sh
+vim condicionales.sh
+./condicionales.sh
+vim condicionales.sh
+./condicionales.sh
+vim case.sh
+chmod +x case.sh
+./case.sh
+vim case.sh
+./case.sh
+vim case.sh
+./case.sh
+./case.sh
+vim case.sh
+./case.sh
+vim case.sh
+./case.sh
+./case.sh
+./case.sh
+./case.sh
+vim case.sh
+./case.sh
+./case.sh
+vim case.sh
+./case.sh
+cd Scripts
+cd ..
+$HOME
+vim .vimrc
+HOME
+cd $HOME
+echo $HOME
+echo $VIM
+echo $VIM
