@@ -144,3 +144,19 @@ cd $HOME
 echo $HOME
 echo $VIM
 echo $VIM
+cd Scripts
+vim array_loop.sh
+chmod +x array_loop.sh
+./array_loop.sh
+vim array_loop.sh
+./array_loop.sh
+vim array_loop.sh
+./array_loop.sh
+vim array_loop.sh
+./array_loop.sh
+vim array_loop.sh
+./array_loop.sh
+vim array_loop.sh
+./array_loop.sh
+vim array_loop.sh
+./array_loop.sh
