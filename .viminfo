@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :x
-|2,0,1662076453,,"x"
+|2,0,1662078404,,"x"
 :colo pablo
-|2,0,1662076397,,"colo pablo"
+|2,0,1662078310,,"colo pablo"
 :q!
 |2,0,1662075194,,"q!"
 :q
@@ -105,230 +105,251 @@
 |3,0,36,0,1,0,1661995680,"\""
 
 # File marks:
-'0  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
-|4,48,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
-'1  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
-|4,49,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
-'2  18  31  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,50,18,31,1662075306,"~/Scripts/archivos_bash/manipular_archivos.sh"
-'3  14  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,51,14,1,1662075194,"~/Scripts/archivos_bash/manipular_archivos.sh"
-'4  14  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,52,14,1,1662075194,"~/Scripts/archivos_bash/manipular_archivos.sh"
-'5  19  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,53,19,1,1662075133,"~/Scripts/archivos_bash/manipular_archivos.sh"
-'6  19  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,54,19,1,1662075133,"~/Scripts/archivos_bash/manipular_archivos.sh"
-'7  17  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,55,17,1,1662075133,"~/Scripts/archivos_bash/manipular_archivos.sh"
-'8  17  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,56,17,1,1662075133,"~/Scripts/archivos_bash/manipular_archivos.sh"
-'9  12  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,57,12,1,1662074958,"~/Scripts/archivos_bash/manipular_archivos.sh"
+'0  20  17  ~/Scripts/funciones.sh
+|4,48,20,17,1662078404,"~/Scripts/funciones.sh"
+'1  19  0  ~/Scripts/funciones.sh
+|4,49,19,0,1662078357,"~/Scripts/funciones.sh"
+'2  19  0  ~/Scripts/funciones.sh
+|4,50,19,0,1662078357,"~/Scripts/funciones.sh"
+'3  19  28  ~/Scripts/funciones.sh
+|4,51,19,28,1662078261,"~/Scripts/funciones.sh"
+'4  20  28  ~/Scripts/funciones.sh
+|4,52,20,28,1662078261,"~/Scripts/funciones.sh"
+'5  19  28  ~/Scripts/funciones.sh
+|4,53,19,28,1662078261,"~/Scripts/funciones.sh"
+'6  8  9  ~/Scripts/funciones.sh
+|4,54,8,9,1662078068,"~/Scripts/funciones.sh"
+'7  8  9  ~/Scripts/funciones.sh
+|4,55,8,9,1662078068,"~/Scripts/funciones.sh"
+'8  8  9  ~/Scripts/funciones.sh
+|4,56,8,9,1662078068,"~/Scripts/funciones.sh"
+'9  8  9  ~/Scripts/funciones.sh
+|4,57,8,9,1662078068,"~/Scripts/funciones.sh"
 
 # Jumplist (newest first):
+-'  20  17  ~/Scripts/funciones.sh
+|4,39,20,17,1662078404,"~/Scripts/funciones.sh"
+-'  19  0  ~/Scripts/funciones.sh
+|4,39,19,0,1662078374,"~/Scripts/funciones.sh"
+-'  19  0  ~/Scripts/funciones.sh
+|4,39,19,0,1662078357,"~/Scripts/funciones.sh"
+-'  20  28  ~/Scripts/funciones.sh
+|4,39,20,28,1662078292,"~/Scripts/funciones.sh"
+-'  19  28  ~/Scripts/funciones.sh
+|4,39,19,28,1662078261,"~/Scripts/funciones.sh"
+-'  8  9  ~/Scripts/funciones.sh
+|4,39,8,9,1662078130,"~/Scripts/funciones.sh"
+-'  8  9  ~/Scripts/funciones.sh
+|4,39,8,9,1662078130,"~/Scripts/funciones.sh"
+-'  8  9  ~/Scripts/funciones.sh
+|4,39,8,9,1662078130,"~/Scripts/funciones.sh"
+-'  8  9  ~/Scripts/funciones.sh
+|4,39,8,9,1662078068,"~/Scripts/funciones.sh"
+-'  6  17  ~/Scripts/funciones.sh
+|4,39,6,17,1662078004,"~/Scripts/funciones.sh"
+-'  6  17  ~/Scripts/funciones.sh
+|4,39,6,17,1662078004,"~/Scripts/funciones.sh"
+-'  6  17  ~/Scripts/funciones.sh
+|4,39,6,17,1662078004,"~/Scripts/funciones.sh"
+-'  6  17  ~/Scripts/funciones.sh
+|4,39,6,17,1662078004,"~/Scripts/funciones.sh"
+-'  6  17  ~/Scripts/funciones.sh
+|4,39,6,17,1662077985,"~/Scripts/funciones.sh"
+-'  1  0  ~/Scripts/funciones.sh
+|4,39,1,0,1662076785,"~/Scripts/funciones.sh"
+-'  1  0  ~/Scripts/funciones.sh
+|4,39,1,0,1662076785,"~/Scripts/funciones.sh"
+-'  1  0  ~/Scripts/funciones.sh
+|4,39,1,0,1662076785,"~/Scripts/funciones.sh"
+-'  1  0  ~/Scripts/funciones.sh
+|4,39,1,0,1662076785,"~/Scripts/funciones.sh"
+-'  1  0  ~/Scripts/funciones.sh
+|4,39,1,0,1662076785,"~/Scripts/funciones.sh"
 -'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
 |4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  12  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,12,1662076453,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
 -'  16  18  ~/Scripts/archivos_bash/lectura_archivos.sh
 |4,39,16,18,1662076227,"~/Scripts/archivos_bash/lectura_archivos.sh"
 -'  1  0  ~/Scripts/archivos_bash/lectura_archivos.sh
 |4,39,1,0,1662075447,"~/Scripts/archivos_bash/lectura_archivos.sh"
 -'  1  0  ~/Scripts/archivos_bash/lectura_archivos.sh
 |4,39,1,0,1662075447,"~/Scripts/archivos_bash/lectura_archivos.sh"
--'  18  31  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,18,31,1662075306,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  18  31  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,18,31,1662075306,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  18  31  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,18,31,1662075306,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  18  31  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,18,31,1662075306,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  14  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,14,1,1662075196,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  14  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,14,1,1662075196,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  14  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,14,1,1662075196,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  14  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,14,1,1662075196,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  14  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,14,1,1662075194,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  14  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,14,1,1662075194,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  14  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,14,1,1662075194,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  14  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,14,1,1662075194,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  19  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,19,1,1662075180,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  17  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,17,1,1662075180,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  19  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,19,1,1662075180,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  17  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,17,1,1662075180,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  19  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,19,1,1662075180,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  17  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,17,1,1662075180,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  19  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,19,1,1662075180,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  17  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,17,1,1662075180,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  17  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,17,1,1662075133,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  17  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,17,1,1662075133,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  17  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,17,1,1662075133,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  17  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,17,1,1662075133,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  12  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,12,1,1662075012,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  12  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,12,1,1662075012,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  12  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,12,1,1662075012,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  12  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,12,1,1662075012,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  12  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,12,1,1662075012,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  12  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,12,1,1662075012,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  12  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,12,1,1662075012,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  12  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,12,1,1662075012,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  12  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,12,1,1662075012,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  12  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,12,1,1662075012,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  12  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,12,1,1662075012,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  12  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,12,1,1662075012,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  12  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,12,1,1662074958,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  12  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,12,1,1662074958,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  12  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,12,1,1662074958,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  12  1  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,12,1,1662074958,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  1  0  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,1,0,1662073952,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  1  0  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,1,0,1662073952,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  1  0  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,1,0,1662073952,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  1  0  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,1,0,1662073952,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  1  0  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,1,0,1662073952,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  1  0  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,1,0,1662073952,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  1  0  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,1,0,1662073952,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  1  0  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,1,0,1662073952,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  1  0  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,1,0,1662073952,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  1  0  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,1,0,1662073952,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  1  0  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,1,0,1662073952,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  1  0  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,1,0,1662073952,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  1  0  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,1,0,1662073952,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  1  0  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,1,0,1662073952,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  1  0  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,1,0,1662073952,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  1  0  ~/Scripts/archivos_bash/manipular_archivos.sh
-|4,39,1,0,1662073952,"~/Scripts/archivos_bash/manipular_archivos.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
--'  49  28  ~/Scripts/array_loop.sh
-|4,39,49,28,1661996856,"~/Scripts/array_loop.sh"
+-'  1  0  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,1,0,1662075447,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  1  0  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,1,0,1662075447,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  1  0  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,1,0,1662075447,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  1  0  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,1,0,1662075447,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  1  0  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,1,0,1662075447,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  1  0  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,1,0,1662075447,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  1  0  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,1,0,1662075447,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  1  0  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,1,0,1662075447,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  1  0  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,1,0,1662075447,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  1  0  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,1,0,1662075447,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  1  0  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,1,0,1662075447,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  1  0  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,1,0,1662075447,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  1  0  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,1,0,1662075447,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  1  0  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,1,0,1662075447,"~/Scripts/archivos_bash/lectura_archivos.sh"
+-'  1  0  ~/Scripts/archivos_bash/lectura_archivos.sh
+|4,39,1,0,1662075447,"~/Scripts/archivos_bash/lectura_archivos.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/Scripts/funciones.sh
+	*	1662078403	0
+	"	20	17
+	^	20	18
+	.	20	17
+	+	2	17
+	+	5	14
+	+	6	17
+	+	8	0
+	+	17	0
+	+	9	14
+	+	9	15
+	+	10	36
+	+	14	31
+	+	13	26
+	+	14	33
+	+	15	0
+	+	20	28
+	+	18	10
+	+	20	17
 
 > ~/Scripts/archivos_bash/lectura_archivos.sh
 	*	1662076451	0
